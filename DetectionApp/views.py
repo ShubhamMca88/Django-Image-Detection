@@ -16,7 +16,7 @@ def image_upload_view(request):
             result = detect_objects(image_path)
             os.remove(image_path)
 
-            return render(request, 'detection/result.html', {'result': result})
+            return render(request, 'result.html', {'result': result})
     else:
         form = ImageUploadForm()
-    return render(request, 'detection/upload.html', {'form': form})
+    return render(request, 'upload.html', {'form': form})

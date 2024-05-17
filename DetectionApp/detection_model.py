@@ -17,3 +17,4 @@ def detect_objects(image_path):
     image_tensor = tf.convert_to_tensor(image, dtype=tf.float32)[tf.newaxis, ...]
     result = model(image_tensor)
     return result
+ 
