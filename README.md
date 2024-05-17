@@ -27,5 +27,12 @@ This project is a web application built with Django that allows users to upload 
 
 ![Screenshot 1](/screenshots/screenshot1.png)
 
+<h3 align="left">Support </h3>
+<p><a href="https://buymeacoffee.com/shubhammca88"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubham" /></a></p><br><br>
+
+<br/>
+<hr/>
+<br/>
+
 
 
